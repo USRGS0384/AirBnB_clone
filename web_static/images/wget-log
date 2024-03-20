@@ -1,0 +1,11 @@
+--2024-03-20 04:11:15--  https://www.airbnb.com/rooms/29124716?adults=1
+Resolving www.airbnb.com (www.airbnb.com)... 2.17.161.112, 2.17.161.81
+Connecting to www.airbnb.com (www.airbnb.com)|2.17.161.112|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘29124716?adults=1’
+
+29124716?adults=1      [<=>            ]       0  --.-KB/s               29124716?adults=1      [ <=>           ] 327.01K  1.94MB/s    in 0.2s    
+
+2024-03-20 04:11:17 (1.94 MB/s) - ‘29124716?adults=1’ saved [334854]
+
