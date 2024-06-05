@@ -1,18 +1,23 @@
-html, body {
-    height: 100%;
-}
-
-/* Common style */
-body{
+* {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-size: 14px;
-    color: #484848;
-    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-/* container style */
-.container{
+html {
+    height: 100vh;
+}
+
+body {
+    color : #484848;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    position: relative;
+    height:700%;
+}
+
+.container {
     max-width: 1000px;
     margin: 30px auto;
+    height: 30%;
 }
